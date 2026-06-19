@@ -41,7 +41,9 @@ You can play the game directly on itch.io:
 👉 Finding Ken on https://clerami.itch.io/finding-ken
 
 
-## Screenshots
-[Game.png]
-[TitleScreen.png]
-[BattleScene.png]
+## 📸 Screenshots
+
+![Gameplay Screenshot](Game.png)  
+![Title Screen](TitlePage.png)  
+![Battle Scene](BattleScene.png)
+
