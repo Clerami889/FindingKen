@@ -35,3 +35,8 @@ Created for **Comfy Summer Game Jam 2026**.
 A cozy yet adventurous game blending exploration, light survival, and quirky chicken humor.
 
 ---
+
+## 🎮 Play Online
+You can play the game directly on itch.io:
+👉 Finding Ken on itch.io
+
