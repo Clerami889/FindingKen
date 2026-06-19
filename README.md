@@ -23,6 +23,13 @@ Explore the Cretaceous landscape, collect items, confront dinosaurs, and reunite
 
 ---
 
+## ✨ Credits
+- **Clerami** – Game development, programming, cutscene implementation, and overall game direction  
+- **tine** – Art, animation, story writing, and gameplay mechanics  
+- **Cachoumi** – Story concept, mechanics concept, bespoke sound effects, and original music  
+
+---
+
 ## 🌱 About
 Created for **Comfy Summer Game Jam 2026**.  
 A cozy yet adventurous game blending exploration, light survival, and quirky chicken humor.
