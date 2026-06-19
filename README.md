@@ -38,5 +38,10 @@ A cozy yet adventurous game blending exploration, light survival, and quirky chi
 
 ## 🎮 Play Online
 You can play the game directly on itch.io:
-👉 Finding Ken on itch.io
+👉 Finding Ken on https://clerami.itch.io/finding-ken
 
+
+## Screenshots
+[Game.png]
+[TitleScreen.png]
+[BattleScene.png]
