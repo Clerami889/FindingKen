@@ -1,0 +1,30 @@
+# 🐔 Finding Ken
+
+Help Chic find their cousin, Ken, who is lost in a world full of prehistoric creatures.  
+Explore the Cretaceous landscape, collect items, confront dinosaurs, and reunite these two chickens lost in a strange world.
+
+---
+
+## 🎮 Gameplay
+- Traverse a mysterious prehistoric world filled with dinosaurs.
+- Collect items to aid your journey.
+- Encounter dinosaurs in tense moments — sometimes running is the only option!
+- Advance through dialogue-driven cutscenes to uncover the story.
+
+---
+
+## 🕹️ Controls
+- **W** – Move up  
+- **S** – Move down  
+- **A** – Move left  
+- **D** – Move right  
+- **E** – Interact  
+- **Space / Return / Left Mouse Button** – Advance dialogue  
+
+---
+
+## 🌱 About
+Created for **Comfy Summer Game Jam 2026**.  
+A cozy yet adventurous game blending exploration, light survival, and quirky chicken humor.
+
+---
